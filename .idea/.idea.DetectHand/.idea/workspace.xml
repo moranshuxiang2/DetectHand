@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5651cfe6-586f-437d-b1e6-39dc4d089f99" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DetectHand/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DetectHand/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fireball/Fireball_big_red.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Almgp_particle_vol_1/prefabs/simple/fireball/Fireball_big_red.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/DetectHand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DetectHand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,29 +19,29 @@
     <session id="-377512292">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1680" />
+          <entry key="cs" value="2383" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1680" />
+          <entry key="C#" value="2383" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="3" />
+          <entry key="cs" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="3" />
+          <entry key="C#" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -47,22 +51,225 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/DetectHand.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-417">
-              <caret line="16" column="62" lean-forward="true" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+            <state relative-caret-position="-439">
+              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
               <folding>
-                <marker date="1544457463981" expanded="false" signature="6:174" ph="..." />
-                <marker date="1544457463981" expanded="true" signature="289:4380" ph="{...}" />
-                <marker date="1544457463981" expanded="true" signature="620:808" ph="{...}" />
-                <marker date="1544457463981" expanded="true" signature="831:1097" ph="{...}" />
-                <marker date="1544457463981" expanded="true" signature="1127:2403" ph="{...}" />
-                <marker date="1544457463981" expanded="true" signature="1823:2068" ph="{...}" />
-                <marker date="1544457463981" expanded="true" signature="1974:2058" ph="{...}" />
-                <marker date="1544457463981" expanded="false" signature="2465:4067" ph="{...}" />
-                <marker date="1544457463981" expanded="true" signature="3077:3318" ph="{...}" />
-                <marker date="1544457463981" expanded="true" signature="3600:3698" ph="{...}" />
-                <marker date="1544457463981" expanded="true" signature="4122:4294" ph="{...}" />
-                <marker date="1544457463981" expanded="true" signature="4217:4288" ph="{...}" />
-                <marker date="1544457463981" expanded="true" signature="4320:4378" ph="{...}" />
+                <marker date="1544464912148" expanded="false" signature="6:174" ph="..." />
+                <marker date="1544464912148" expanded="true" signature="288:4844" ph="{...}" />
+                <marker date="1544464912148" expanded="true" signature="754:1288" ph="{...}" />
+                <marker date="1544464912148" expanded="true" signature="1311:1647" ph="{...}" />
+                <marker date="1544464912148" expanded="true" signature="1678:3182" ph="{...}" />
+                <marker date="1544464912148" expanded="true" signature="2430:2679" ph="{...}" />
+                <marker date="1544464912148" expanded="true" signature="2585:2669" ph="{...}" />
+                <marker date="1544464912148" expanded="true" signature="3244:4531" ph="{...}" />
+                <marker date="1544464912148" expanded="true" signature="3834:4075" ph="{...}" />
+                <marker date="1544464912148" expanded="true" signature="4355:4453" ph="{...}" />
+                <marker date="1544464912148" expanded="false" signature="4586:4758" ph="{...}" />
+                <marker date="1544464912148" expanded="true" signature="4681:4752" ph="{...}" />
+                <marker date="1544464912148" expanded="true" signature="4784:4842" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/OpenCVForUnity/Examples/WebCamTextureToMatHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="662" column="33" selection-start-line="662" selection-start-column="33" selection-end-line="662" selection-end-column="33" />
+              <folding>
+                <marker date="1535830370000" expanded="false" signature="6:139" ph="..." />
+                <marker date="1535830370000" expanded="true" signature="172:33806" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="179:264" ph="/// WebcamTexture to mat helper. ... " />
+                <marker date="1535830370000" expanded="true" signature="322:33804" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="337:452" ph="/// Set the name of the camera device to use. (or device index number) ... " />
+                <marker date="1535830370000" expanded="true" signature="711:938" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="779:928" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="860:914" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="948:1021" ph="/// Set the width of camera. ... " />
+                <marker date="1535830370000" expanded="true" signature="1223:1479" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="1286:1469" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="1401:1455" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="1489:1563" ph="/// Set the height of camera. ... " />
+                <marker date="1535830370000" expanded="true" signature="1769:2027" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="1833:2017" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="1949:2003" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="2037:2129" ph="/// Set whether to use the front facing camera. ... " />
+                <marker date="1535830370000" expanded="true" signature="2378:2664" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="2449:2654" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="2533:2640" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="2674:2752" ph="/// Set the frame rate of camera. ... " />
+                <marker date="1535830370000" expanded="true" signature="2957:3382" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="3018:3372" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="3127:3358" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="3392:3500" ph="/// Sets whether to rotate camera frame 90 degrees. (clockwise) ... " />
+                <marker date="1535830370000" expanded="true" signature="3741:3958" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="3804:3948" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="3880:3934" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="3968:4048" ph="/// Determines if flips vertically. ... " />
+                <marker date="1535830370000" expanded="true" signature="4255:4352" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="4362:4442" ph="/// Determines if flips horizontal. ... " />
+                <marker date="1535830370000" expanded="true" signature="4655:4756" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="4766:4880" ph="/// The number of frames before the initialization process times out. ... " />
+                <marker date="1535830370000" expanded="true" signature="5132:5278" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="5288:5400" ph="/// UnityEvent that is triggered when this instance is initialized. ... " />
+                <marker date="1535830370000" expanded="true" signature="5451:5560" ph="/// UnityEvent that is triggered when this instance is disposed. ... " />
+                <marker date="1535830370000" expanded="true" signature="5608:5723" ph="/// UnityEvent that is triggered when this instance is error Occurred. ... " />
+                <marker date="1535830370000" expanded="true" signature="5781:5855" ph="/// The active WebcamTexture. ... " />
+                <marker date="1535830370000" expanded="true" signature="5912:5985" ph="/// The active WebcamDevice. ... " />
+                <marker date="1535830370000" expanded="true" signature="6040:6103" ph="/// The frame mat. ... " />
+                <marker date="1535830370000" expanded="true" signature="6145:6215" ph="/// The rotated frame mat ... " />
+                <marker date="1535830370000" expanded="true" signature="6264:6331" ph="/// The buffer colors. ... " />
+                <marker date="1535830370000" expanded="true" signature="6377:6500" ph="/// Indicates whether this instance is waiting for initialization to complete. ... " />
+                <marker date="1535830370000" expanded="true" signature="6556:6658" ph="/// Indicates whether this instance has been initialized. ... " />
+                <marker date="1535830370000" expanded="true" signature="6712:6790" ph="/// The initialization coroutine. ... " />
+                <marker date="1535830370000" expanded="true" signature="6845:6924" ph="/// The orientation of the screen. ... " />
+                <marker date="1535830370000" expanded="true" signature="6989:7062" ph="/// The width of the screen. ... " />
+                <marker date="1535830370000" expanded="true" signature="7107:7181" ph="/// The height of the screen. ... " />
+                <marker date="1535830370000" expanded="true" signature="7284:7395" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="7506:7539" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="7585:7949" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="8034:10024" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="8074:10014" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="8317:9877" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="8453:8562" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="8612:8735" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="10034:10108" ph="/// Raises the destroy event. ... " />
+                <marker date="1535830370000" expanded="true" signature="10152:10196" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="10206:10281" ph="/// Initializes this instance. ... " />
+                <marker date="1535830370000" expanded="true" signature="10323:10854" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="10365:10457" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="10864:11073" ph="/// Initializes this instance. ... " />
+                <marker date="1535830370000" expanded="true" signature="11154:11781" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="11196:11288" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="11791:12172" ph="/// Initializes this instance. ... " />
+                <marker date="1535830370000" expanded="true" signature="12296:13025" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="12338:12430" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="13035:13608" ph="/// Initializes this instance. ... " />
+                <marker date="1535830370000" expanded="true" signature="13800:14628" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="13842:13934" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="14638:14726" ph="/// Initializes this instance by coroutine. ... " />
+                <marker date="1535830370000" expanded="true" signature="14779:22192" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="14819:14954" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="15086:16726" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="15219:15811" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="15327:15793" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="15460:15603" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="15924:16561" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="16019:16539" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="16151:16302" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="16767:17593" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="16951:17579" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="17073:17561" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="17197:17340" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="17634:18359" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="17690:18109" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="17796:17931" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="18528:21874" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="18586:18670" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="19218:21758" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="21903:22182" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="22202:22411" ph="/// Indicates whether this instance has been initialized. ... " />
+                <marker date="1535830370000" expanded="true" signature="22456:22508" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="22518:22585" ph="/// Starts the camera. ... " />
+                <marker date="1535830370000" expanded="true" signature="22621:22709" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="22719:22793" ph="/// Pauses the active camera. ... " />
+                <marker date="1535830370000" expanded="true" signature="22830:22919" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="22929:23002" ph="/// Stops the active camera. ... " />
+                <marker date="1535830370000" expanded="true" signature="23038:23126" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="23136:23343" ph="/// Indicates whether the active camera is currently playing. ... " />
+                <marker date="1535830370000" expanded="true" signature="23384:23470" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="23480:23709" ph="/// Indicates whether the active camera device is currently front facng. ... " />
+                <marker date="1535830370000" expanded="true" signature="23754:23843" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="23853:24002" ph="/// Returns the active camera device name. ... " />
+                <marker date="1535830370000" expanded="true" signature="24049:24133" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="24143:24280" ph="/// Returns the active camera width. ... " />
+                <marker date="1535830370000" expanded="true" signature="24319:24483" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="24493:24632" ph="/// Returns the active camera height. ... " />
+                <marker date="1535830370000" expanded="true" signature="24672:24836" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="24846:24991" ph="/// Returns the active camera framerate. ... " />
+                <marker date="1535830370000" expanded="true" signature="25030:25117" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="25127:25266" ph="/// Returns the active WebcamTexture. ... " />
+                <marker date="1535830370000" expanded="true" signature="25323:25398" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="25408:25545" ph="/// Returns the active WebcamDevice. ... " />
+                <marker date="1535830370000" expanded="true" signature="25600:25653" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="25663:25806" ph="/// Returns the camera to world matrix. ... " />
+                <marker date="1535830370000" expanded="true" signature="25865:25937" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="25947:26087" ph="/// Returns the projection matrix matrix. ... " />
+                <marker date="1535830370000" expanded="true" signature="26143:26212" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="26222:26441" ph="/// Indicates whether the video buffer of the frame has been updated. ... " />
+                <marker date="1535830370000" expanded="true" signature="26491:26934" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="26944:27143" ph="/// Gets the mat of the current frame. ... " />
+                <marker date="1535830370000" expanded="true" signature="27180:29391" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="27249:27343" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="29154:29308" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="29401:29507" ph="/// Flips the mat. ... " />
+                <marker date="1535830370000" expanded="true" signature="29596:31502" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="29834:30308" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="29895:29949" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="29999:30053" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="30115:30179" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="30230:30294" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="30377:30430" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="30481:30534" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="30596:30958" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="30644:30697" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="30722:30786" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="30811:30865" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="30891:30944" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="31008:31370" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="31056:31109" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="31134:31188" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="31213:31277" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="31303:31356" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="31429:31492" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="31512:31634" ph="/// Gets the buffer colors. ... " />
+                <marker date="1535830370000" expanded="true" signature="31686:31733" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="31743:31814" ph="/// Cancel Init Coroutine. ... " />
+                <marker date="1535830370000" expanded="true" signature="31868:32085" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="31918:32075" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="32095:32169" ph="/// To release the resources. ... " />
+                <marker date="1535830370000" expanded="true" signature="32220:32757" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="32339:32486" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="32521:32606" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="32648:32747" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="32767:33393" ph="/// Releases all resource used by the &lt;see cref=&quot;WebCamTextureToMatHelper&quot;/&gt; object. ... " />
+                <marker date="1535830370000" expanded="true" signature="33432:33798" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="33538:33630" ph="{...}" />
+                <marker date="1535830370000" expanded="true" signature="33653:33788" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/OpenCVForUnity/Examples/FpsMonitor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-880">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <marker date="1535829662000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1535829662000" expanded="true" signature="111:5142" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="157:5140" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="266:378" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="1438:1825" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="1893:2103" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="1985:2093" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="2127:3300" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="2207:2251" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="2363:2414" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="2651:2738" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="2881:3290" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="2915:2983" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="3353:3534" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="3401:3458" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="3576:3624" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="3655:3699" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="3745:4383" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="4450:4764" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="4480:4754" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="4819:5134" ph="{...}" />
+                <marker date="1535829662000" expanded="true" signature="4849:5124" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -70,12 +277,18 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>webcam</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/OpenCVForUnity/Examples/WebCamTextureToMatHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/OpenCVForUnity/org/opencv/imgproc/Imgproc.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OpenCVForUnity/Examples/FpsMonitor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DetectHand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/OpenCVForUnity/org/opencv/core/Mat.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -109,7 +322,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+    <property name="settings.editor.selected.configurable" value="RiderCSharpLiveTemplatesSettingsId" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,12 +363,12 @@
       <option name="presentableId" value="Default" />
       <updated>1544425391124</updated>
       <workItem from="1544425393989" duration="119000" />
-      <workItem from="1544425556920" duration="12698000" />
+      <workItem from="1544425556920" duration="19057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12817000" />
+    <option name="totallyTimeSpent" value="19176000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -170,12 +383,12 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.119456366" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.24752475" visible="true" weight="0.18669528" />
+      <window_info id="Structure" order="1" sideWeight="0.75247526" side_tool="true" visible="true" weight="0.18669528" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Unity" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32920793" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -209,174 +422,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/OpenCVForUnity/Examples/WebCamTextureToMatHelper.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="176" column="22" selection-start-line="176" selection-start-column="22" selection-end-line="176" selection-end-column="22" />
-          <folding>
-            <marker date="1535830370000" expanded="false" signature="6:139" ph="..." />
-            <marker date="1535830370000" expanded="true" signature="172:33806" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="179:264" ph="/// WebcamTexture to mat helper. ... " />
-            <marker date="1535830370000" expanded="true" signature="322:33804" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="337:452" ph="/// Set the name of the camera device to use. (or device index number) ... " />
-            <marker date="1535830370000" expanded="true" signature="711:938" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="779:928" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="860:914" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="948:1021" ph="/// Set the width of camera. ... " />
-            <marker date="1535830370000" expanded="true" signature="1223:1479" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="1286:1469" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="1401:1455" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="1489:1563" ph="/// Set the height of camera. ... " />
-            <marker date="1535830370000" expanded="true" signature="1769:2027" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="1833:2017" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="1949:2003" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="2037:2129" ph="/// Set whether to use the front facing camera. ... " />
-            <marker date="1535830370000" expanded="true" signature="2378:2664" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="2449:2654" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="2533:2640" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="2674:2752" ph="/// Set the frame rate of camera. ... " />
-            <marker date="1535830370000" expanded="true" signature="2957:3382" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="3018:3372" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="3127:3358" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="3392:3500" ph="/// Sets whether to rotate camera frame 90 degrees. (clockwise) ... " />
-            <marker date="1535830370000" expanded="true" signature="3741:3958" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="3804:3948" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="3880:3934" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="3968:4048" ph="/// Determines if flips vertically. ... " />
-            <marker date="1535830370000" expanded="true" signature="4255:4352" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="4362:4442" ph="/// Determines if flips horizontal. ... " />
-            <marker date="1535830370000" expanded="true" signature="4655:4756" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="4766:4880" ph="/// The number of frames before the initialization process times out. ... " />
-            <marker date="1535830370000" expanded="true" signature="5132:5278" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="5288:5400" ph="/// UnityEvent that is triggered when this instance is initialized. ... " />
-            <marker date="1535830370000" expanded="true" signature="5451:5560" ph="/// UnityEvent that is triggered when this instance is disposed. ... " />
-            <marker date="1535830370000" expanded="true" signature="5608:5723" ph="/// UnityEvent that is triggered when this instance is error Occurred. ... " />
-            <marker date="1535830370000" expanded="true" signature="5781:5855" ph="/// The active WebcamTexture. ... " />
-            <marker date="1535830370000" expanded="true" signature="5912:5985" ph="/// The active WebcamDevice. ... " />
-            <marker date="1535830370000" expanded="true" signature="6040:6103" ph="/// The frame mat. ... " />
-            <marker date="1535830370000" expanded="true" signature="6145:6215" ph="/// The rotated frame mat ... " />
-            <marker date="1535830370000" expanded="true" signature="6264:6331" ph="/// The buffer colors. ... " />
-            <marker date="1535830370000" expanded="true" signature="6377:6500" ph="/// Indicates whether this instance is waiting for initialization to complete. ... " />
-            <marker date="1535830370000" expanded="true" signature="6556:6658" ph="/// Indicates whether this instance has been initialized. ... " />
-            <marker date="1535830370000" expanded="true" signature="6712:6790" ph="/// The initialization coroutine. ... " />
-            <marker date="1535830370000" expanded="true" signature="6845:6924" ph="/// The orientation of the screen. ... " />
-            <marker date="1535830370000" expanded="true" signature="6989:7062" ph="/// The width of the screen. ... " />
-            <marker date="1535830370000" expanded="true" signature="7107:7181" ph="/// The height of the screen. ... " />
-            <marker date="1535830370000" expanded="true" signature="7284:7395" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="7506:7539" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="7585:7949" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="8034:10024" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="8074:10014" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="8317:9877" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="8453:8562" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="8612:8735" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="10034:10108" ph="/// Raises the destroy event. ... " />
-            <marker date="1535830370000" expanded="true" signature="10152:10196" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="10206:10281" ph="/// Initializes this instance. ... " />
-            <marker date="1535830370000" expanded="true" signature="10323:10854" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="10365:10457" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="10864:11073" ph="/// Initializes this instance. ... " />
-            <marker date="1535830370000" expanded="true" signature="11154:11781" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="11196:11288" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="11791:12172" ph="/// Initializes this instance. ... " />
-            <marker date="1535830370000" expanded="true" signature="12296:13025" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="12338:12430" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="13035:13608" ph="/// Initializes this instance. ... " />
-            <marker date="1535830370000" expanded="true" signature="13800:14628" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="13842:13934" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="14638:14726" ph="/// Initializes this instance by coroutine. ... " />
-            <marker date="1535830370000" expanded="true" signature="14779:22192" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="14819:14954" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="15086:16726" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="15219:15811" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="15327:15793" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="15460:15603" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="15924:16561" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="16019:16539" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="16151:16302" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="16767:17593" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="16951:17579" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="17073:17561" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="17197:17340" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="17634:18359" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="17690:18109" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="17796:17931" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="18528:21874" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="18586:18670" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="19218:21758" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="21903:22182" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="22202:22411" ph="/// Indicates whether this instance has been initialized. ... " />
-            <marker date="1535830370000" expanded="true" signature="22456:22508" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="22518:22585" ph="/// Starts the camera. ... " />
-            <marker date="1535830370000" expanded="true" signature="22621:22709" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="22719:22793" ph="/// Pauses the active camera. ... " />
-            <marker date="1535830370000" expanded="true" signature="22830:22919" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="22929:23002" ph="/// Stops the active camera. ... " />
-            <marker date="1535830370000" expanded="true" signature="23038:23126" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="23136:23343" ph="/// Indicates whether the active camera is currently playing. ... " />
-            <marker date="1535830370000" expanded="true" signature="23384:23470" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="23480:23709" ph="/// Indicates whether the active camera device is currently front facng. ... " />
-            <marker date="1535830370000" expanded="true" signature="23754:23843" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="23853:24002" ph="/// Returns the active camera device name. ... " />
-            <marker date="1535830370000" expanded="true" signature="24049:24133" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="24143:24280" ph="/// Returns the active camera width. ... " />
-            <marker date="1535830370000" expanded="true" signature="24319:24483" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="24493:24632" ph="/// Returns the active camera height. ... " />
-            <marker date="1535830370000" expanded="true" signature="24672:24836" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="24846:24991" ph="/// Returns the active camera framerate. ... " />
-            <marker date="1535830370000" expanded="true" signature="25030:25117" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="25127:25266" ph="/// Returns the active WebcamTexture. ... " />
-            <marker date="1535830370000" expanded="true" signature="25323:25398" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="25408:25545" ph="/// Returns the active WebcamDevice. ... " />
-            <marker date="1535830370000" expanded="true" signature="25600:25653" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="25663:25806" ph="/// Returns the camera to world matrix. ... " />
-            <marker date="1535830370000" expanded="true" signature="25865:25937" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="25947:26087" ph="/// Returns the projection matrix matrix. ... " />
-            <marker date="1535830370000" expanded="true" signature="26143:26212" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="26222:26441" ph="/// Indicates whether the video buffer of the frame has been updated. ... " />
-            <marker date="1535830370000" expanded="true" signature="26491:26934" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="26944:27143" ph="/// Gets the mat of the current frame. ... " />
-            <marker date="1535830370000" expanded="true" signature="27180:29391" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="27249:27343" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="29154:29308" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="29401:29507" ph="/// Flips the mat. ... " />
-            <marker date="1535830370000" expanded="true" signature="29596:31502" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="29834:30308" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="29895:29949" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="29999:30053" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="30115:30179" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="30230:30294" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="30377:30430" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="30481:30534" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="30596:30958" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="30644:30697" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="30722:30786" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="30811:30865" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="30891:30944" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="31008:31370" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="31056:31109" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="31134:31188" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="31213:31277" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="31303:31356" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="31429:31492" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="31512:31634" ph="/// Gets the buffer colors. ... " />
-            <marker date="1535830370000" expanded="true" signature="31686:31733" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="31743:31814" ph="/// Cancel Init Coroutine. ... " />
-            <marker date="1535830370000" expanded="true" signature="31868:32085" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="31918:32075" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="32095:32169" ph="/// To release the resources. ... " />
-            <marker date="1535830370000" expanded="true" signature="32220:32757" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="32339:32486" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="32521:32606" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="32648:32747" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="32767:33393" ph="/// Releases all resource used by the &lt;see cref=&quot;WebCamTextureToMatHelper&quot;/&gt; object. ... " />
-            <marker date="1535830370000" expanded="true" signature="33432:33798" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="33538:33630" ph="{...}" />
-            <marker date="1535830370000" expanded="true" signature="33653:33788" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/OpenCVForUnity/org/opencv/imgproc/Imgproc.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -685,24 +730,223 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/OpenCVForUnity/Examples/FpsMonitor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-880">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1535829662000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1535829662000" expanded="true" signature="111:5142" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="157:5140" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="266:378" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="1438:1825" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="1893:2103" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="1985:2093" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="2127:3300" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="2207:2251" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="2363:2414" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="2651:2738" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="2881:3290" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="2915:2983" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="3353:3534" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="3401:3458" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="3576:3624" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="3655:3699" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="3745:4383" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="4450:4764" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="4480:4754" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="4819:5134" ph="{...}" />
+            <marker date="1535829662000" expanded="true" signature="4849:5124" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/OpenCVForUnity/Examples/WebCamTextureToMatHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="662" column="33" selection-start-line="662" selection-start-column="33" selection-end-line="662" selection-end-column="33" />
+          <folding>
+            <marker date="1535830370000" expanded="false" signature="6:139" ph="..." />
+            <marker date="1535830370000" expanded="true" signature="172:33806" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="179:264" ph="/// WebcamTexture to mat helper. ... " />
+            <marker date="1535830370000" expanded="true" signature="322:33804" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="337:452" ph="/// Set the name of the camera device to use. (or device index number) ... " />
+            <marker date="1535830370000" expanded="true" signature="711:938" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="779:928" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="860:914" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="948:1021" ph="/// Set the width of camera. ... " />
+            <marker date="1535830370000" expanded="true" signature="1223:1479" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="1286:1469" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="1401:1455" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="1489:1563" ph="/// Set the height of camera. ... " />
+            <marker date="1535830370000" expanded="true" signature="1769:2027" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="1833:2017" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="1949:2003" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="2037:2129" ph="/// Set whether to use the front facing camera. ... " />
+            <marker date="1535830370000" expanded="true" signature="2378:2664" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="2449:2654" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="2533:2640" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="2674:2752" ph="/// Set the frame rate of camera. ... " />
+            <marker date="1535830370000" expanded="true" signature="2957:3382" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="3018:3372" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="3127:3358" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="3392:3500" ph="/// Sets whether to rotate camera frame 90 degrees. (clockwise) ... " />
+            <marker date="1535830370000" expanded="true" signature="3741:3958" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="3804:3948" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="3880:3934" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="3968:4048" ph="/// Determines if flips vertically. ... " />
+            <marker date="1535830370000" expanded="true" signature="4255:4352" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="4362:4442" ph="/// Determines if flips horizontal. ... " />
+            <marker date="1535830370000" expanded="true" signature="4655:4756" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="4766:4880" ph="/// The number of frames before the initialization process times out. ... " />
+            <marker date="1535830370000" expanded="true" signature="5132:5278" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="5288:5400" ph="/// UnityEvent that is triggered when this instance is initialized. ... " />
+            <marker date="1535830370000" expanded="true" signature="5451:5560" ph="/// UnityEvent that is triggered when this instance is disposed. ... " />
+            <marker date="1535830370000" expanded="true" signature="5608:5723" ph="/// UnityEvent that is triggered when this instance is error Occurred. ... " />
+            <marker date="1535830370000" expanded="true" signature="5781:5855" ph="/// The active WebcamTexture. ... " />
+            <marker date="1535830370000" expanded="true" signature="5912:5985" ph="/// The active WebcamDevice. ... " />
+            <marker date="1535830370000" expanded="true" signature="6040:6103" ph="/// The frame mat. ... " />
+            <marker date="1535830370000" expanded="true" signature="6145:6215" ph="/// The rotated frame mat ... " />
+            <marker date="1535830370000" expanded="true" signature="6264:6331" ph="/// The buffer colors. ... " />
+            <marker date="1535830370000" expanded="true" signature="6377:6500" ph="/// Indicates whether this instance is waiting for initialization to complete. ... " />
+            <marker date="1535830370000" expanded="true" signature="6556:6658" ph="/// Indicates whether this instance has been initialized. ... " />
+            <marker date="1535830370000" expanded="true" signature="6712:6790" ph="/// The initialization coroutine. ... " />
+            <marker date="1535830370000" expanded="true" signature="6845:6924" ph="/// The orientation of the screen. ... " />
+            <marker date="1535830370000" expanded="true" signature="6989:7062" ph="/// The width of the screen. ... " />
+            <marker date="1535830370000" expanded="true" signature="7107:7181" ph="/// The height of the screen. ... " />
+            <marker date="1535830370000" expanded="true" signature="7284:7395" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="7506:7539" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="7585:7949" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="8034:10024" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="8074:10014" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="8317:9877" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="8453:8562" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="8612:8735" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="10034:10108" ph="/// Raises the destroy event. ... " />
+            <marker date="1535830370000" expanded="true" signature="10152:10196" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="10206:10281" ph="/// Initializes this instance. ... " />
+            <marker date="1535830370000" expanded="true" signature="10323:10854" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="10365:10457" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="10864:11073" ph="/// Initializes this instance. ... " />
+            <marker date="1535830370000" expanded="true" signature="11154:11781" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="11196:11288" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="11791:12172" ph="/// Initializes this instance. ... " />
+            <marker date="1535830370000" expanded="true" signature="12296:13025" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="12338:12430" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="13035:13608" ph="/// Initializes this instance. ... " />
+            <marker date="1535830370000" expanded="true" signature="13800:14628" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="13842:13934" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="14638:14726" ph="/// Initializes this instance by coroutine. ... " />
+            <marker date="1535830370000" expanded="true" signature="14779:22192" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="14819:14954" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="15086:16726" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="15219:15811" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="15327:15793" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="15460:15603" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="15924:16561" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="16019:16539" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="16151:16302" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="16767:17593" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="16951:17579" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="17073:17561" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="17197:17340" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="17634:18359" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="17690:18109" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="17796:17931" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="18528:21874" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="18586:18670" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="19218:21758" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="21903:22182" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="22202:22411" ph="/// Indicates whether this instance has been initialized. ... " />
+            <marker date="1535830370000" expanded="true" signature="22456:22508" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="22518:22585" ph="/// Starts the camera. ... " />
+            <marker date="1535830370000" expanded="true" signature="22621:22709" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="22719:22793" ph="/// Pauses the active camera. ... " />
+            <marker date="1535830370000" expanded="true" signature="22830:22919" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="22929:23002" ph="/// Stops the active camera. ... " />
+            <marker date="1535830370000" expanded="true" signature="23038:23126" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="23136:23343" ph="/// Indicates whether the active camera is currently playing. ... " />
+            <marker date="1535830370000" expanded="true" signature="23384:23470" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="23480:23709" ph="/// Indicates whether the active camera device is currently front facng. ... " />
+            <marker date="1535830370000" expanded="true" signature="23754:23843" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="23853:24002" ph="/// Returns the active camera device name. ... " />
+            <marker date="1535830370000" expanded="true" signature="24049:24133" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="24143:24280" ph="/// Returns the active camera width. ... " />
+            <marker date="1535830370000" expanded="true" signature="24319:24483" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="24493:24632" ph="/// Returns the active camera height. ... " />
+            <marker date="1535830370000" expanded="true" signature="24672:24836" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="24846:24991" ph="/// Returns the active camera framerate. ... " />
+            <marker date="1535830370000" expanded="true" signature="25030:25117" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="25127:25266" ph="/// Returns the active WebcamTexture. ... " />
+            <marker date="1535830370000" expanded="true" signature="25323:25398" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="25408:25545" ph="/// Returns the active WebcamDevice. ... " />
+            <marker date="1535830370000" expanded="true" signature="25600:25653" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="25663:25806" ph="/// Returns the camera to world matrix. ... " />
+            <marker date="1535830370000" expanded="true" signature="25865:25937" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="25947:26087" ph="/// Returns the projection matrix matrix. ... " />
+            <marker date="1535830370000" expanded="true" signature="26143:26212" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="26222:26441" ph="/// Indicates whether the video buffer of the frame has been updated. ... " />
+            <marker date="1535830370000" expanded="true" signature="26491:26934" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="26944:27143" ph="/// Gets the mat of the current frame. ... " />
+            <marker date="1535830370000" expanded="true" signature="27180:29391" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="27249:27343" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="29154:29308" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="29401:29507" ph="/// Flips the mat. ... " />
+            <marker date="1535830370000" expanded="true" signature="29596:31502" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="29834:30308" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="29895:29949" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="29999:30053" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="30115:30179" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="30230:30294" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="30377:30430" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="30481:30534" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="30596:30958" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="30644:30697" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="30722:30786" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="30811:30865" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="30891:30944" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="31008:31370" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="31056:31109" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="31134:31188" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="31213:31277" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="31303:31356" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="31429:31492" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="31512:31634" ph="/// Gets the buffer colors. ... " />
+            <marker date="1535830370000" expanded="true" signature="31686:31733" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="31743:31814" ph="/// Cancel Init Coroutine. ... " />
+            <marker date="1535830370000" expanded="true" signature="31868:32085" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="31918:32075" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="32095:32169" ph="/// To release the resources. ... " />
+            <marker date="1535830370000" expanded="true" signature="32220:32757" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="32339:32486" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="32521:32606" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="32648:32747" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="32767:33393" ph="/// Releases all resource used by the &lt;see cref=&quot;WebCamTextureToMatHelper&quot;/&gt; object. ... " />
+            <marker date="1535830370000" expanded="true" signature="33432:33798" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="33538:33630" ph="{...}" />
+            <marker date="1535830370000" expanded="true" signature="33653:33788" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/DetectHand.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-417">
-          <caret line="16" column="62" lean-forward="true" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+        <state relative-caret-position="-439">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
           <folding>
-            <marker date="1544457463981" expanded="false" signature="6:174" ph="..." />
-            <marker date="1544457463981" expanded="true" signature="289:4380" ph="{...}" />
-            <marker date="1544457463981" expanded="true" signature="620:808" ph="{...}" />
-            <marker date="1544457463981" expanded="true" signature="831:1097" ph="{...}" />
-            <marker date="1544457463981" expanded="true" signature="1127:2403" ph="{...}" />
-            <marker date="1544457463981" expanded="true" signature="1823:2068" ph="{...}" />
-            <marker date="1544457463981" expanded="true" signature="1974:2058" ph="{...}" />
-            <marker date="1544457463981" expanded="false" signature="2465:4067" ph="{...}" />
-            <marker date="1544457463981" expanded="true" signature="3077:3318" ph="{...}" />
-            <marker date="1544457463981" expanded="true" signature="3600:3698" ph="{...}" />
-            <marker date="1544457463981" expanded="true" signature="4122:4294" ph="{...}" />
-            <marker date="1544457463981" expanded="true" signature="4217:4288" ph="{...}" />
-            <marker date="1544457463981" expanded="true" signature="4320:4378" ph="{...}" />
+            <marker date="1544464912148" expanded="false" signature="6:174" ph="..." />
+            <marker date="1544464912148" expanded="true" signature="288:4844" ph="{...}" />
+            <marker date="1544464912148" expanded="true" signature="754:1288" ph="{...}" />
+            <marker date="1544464912148" expanded="true" signature="1311:1647" ph="{...}" />
+            <marker date="1544464912148" expanded="true" signature="1678:3182" ph="{...}" />
+            <marker date="1544464912148" expanded="true" signature="2430:2679" ph="{...}" />
+            <marker date="1544464912148" expanded="true" signature="2585:2669" ph="{...}" />
+            <marker date="1544464912148" expanded="true" signature="3244:4531" ph="{...}" />
+            <marker date="1544464912148" expanded="true" signature="3834:4075" ph="{...}" />
+            <marker date="1544464912148" expanded="true" signature="4355:4453" ph="{...}" />
+            <marker date="1544464912148" expanded="false" signature="4586:4758" ph="{...}" />
+            <marker date="1544464912148" expanded="true" signature="4681:4752" ph="{...}" />
+            <marker date="1544464912148" expanded="true" signature="4784:4842" ph="{...}" />
           </folding>
         </state>
       </provider>
