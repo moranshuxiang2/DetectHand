@@ -5,6 +5,18 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Almgp_particle_vol_1" t="Include">
+          <e p="README.txt" t="Include" />
+          <e p="script" t="Include">
+            <e p="sprite_sheet.cs" t="Include" />
+          </e>
+          <e p="shaders" t="Include">
+            <e p="emmision_particle.shader" t="Include" />
+            <e p="face_power_particle.shader" t="Include" />
+            <e p="mesh_dissolve_particel.shader" t="Include" />
+            <e p="multypower_particle.shader" t="Include" />
+          </e>
+        </e>
         <e p="DetectHand.cs" t="Include" />
         <e p="OpenCVForUnity" t="Include">
           <e p="Editor" t="Include">
